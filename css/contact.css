@@ -9,7 +9,7 @@ html, body {
 
 div.container {
 	width: 90%;
-	max-width: 500px;
+	max-width: 600px;
 	margin: 50px auto;
 
 	opacity: 0;
